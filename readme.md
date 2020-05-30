@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > Vấn đề đã được báo cáo và sửa chữa, phần thưởng cho phát hiện này là một trầu `Trà đá kem cheese` 🍻
-> Kiến thức về web tôi còn hạn hẹp, nếu có gì sai sót trong bài mong mọi người bỏ qua!
+(Kiến thức về web tôi còn hạn hẹp, nếu có gì sai sót trong bài mong mọi người bỏ qua!)
 
 Trường tôi có cả tá, cả rổ ứng dụng về tra cứu lịch học lịch thi như (Còn nhiều mà chưa dùng hết 😅):
 
